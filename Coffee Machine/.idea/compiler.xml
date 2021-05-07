@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-A_simple_calculator_main" target="11" />
+      <module name="Problems-A_simple_calculator_test" target="11" />
+      <module name="Problems-Alphabetical_order_main" target="11" />
+      <module name="Problems-Alphabetical_order_test" target="11" />
+      <module name="Problems-Calculator_with_four_methods_main" target="11" />
+      <module name="Problems-Calculator_with_four_methods_test" target="11" />
+      <module name="Problems-Car_main" target="11" />
+      <module name="Problems-Car_test" target="11" />
+      <module name="Problems-Create_a_full_name_main" target="11" />
+      <module name="Problems-Create_a_full_name_test" target="11" />
+      <module name="Problems-Currencies_main" target="11" />
+      <module name="Problems-Currencies_test" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_main" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Decompose_a_math_function_main" target="11" />
+      <module name="Problems-Decompose_a_math_function_test" target="11" />
+      <module name="Problems-Division_main" target="11" />
+      <module name="Problems-Division_test" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__main" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__test" target="11" />
+      <module name="Problems-Fixing_the_main_method_main" target="11" />
+      <module name="Problems-Fixing_the_main_method_test" target="11" />
+      <module name="Problems-From_string_to_a_number_main" target="11" />
+      <module name="Problems-From_string_to_a_number_test" target="11" />
+      <module name="Problems-Hidden_enumeration_main" target="11" />
+      <module name="Problems-Hidden_enumeration_test" target="11" />
+      <module name="Problems-In_a_box_main" target="11" />
+      <module name="Problems-In_a_box_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems-Inner_boxes_main" target="11" />
+      <module name="Problems-Inner_boxes_test" target="11" />
+      <module name="Problems-Points_on_the_2D_plane_main" target="11" />
+      <module name="Problems-Points_on_the_2D_plane_test" target="11" />
+      <module name="Problems-Print__Hello,_Java!_main" target="11" />
+      <module name="Problems-Print__Hello,_Java!_test" target="11" />
+      <module name="Problems-Representing_time_as_a_class_main" target="11" />
+      <module name="Problems-Representing_time_as_a_class_test" target="11" />
+      <module name="Problems-Robot_control_main" target="11" />
+      <module name="Problems-Robot_control_test" target="11" />
+      <module name="Problems-Simulating_a_clock_main" target="11" />
+      <module name="Problems-Simulating_a_clock_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-The_sign_of_a_number_main" target="11" />
+      <module name="Problems-The_sign_of_a_number_test" target="11" />
+      <module name="Problems-The_sum_of_array_elements_main" target="11" />
+      <module name="Problems-The_sum_of_array_elements_test" target="11" />
+      <module name="Problems-Two_numbers_never_occur_next_to_each_other_main" target="11" />
+      <module name="Problems-Two_numbers_never_occur_next_to_each_other_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
